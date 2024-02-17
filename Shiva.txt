@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-In Shiva file Modified
-=======
-In Shiva file
+Shiva
 
-Shiva Shiva
-
->>>>>>> 3ad3d264d1c8955a0e4de62449b470fd32e62012
